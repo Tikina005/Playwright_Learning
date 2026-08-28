@@ -6,4 +6,6 @@ console.log(typeof pi);
 console.log(typeof age);
 console.log(typeof nullvalue);
 console.log(typeof undefinedvalue);
-console.log(typeof NaN);
+//console.log(typeof NaN);
+let username;
+console.log(username);
